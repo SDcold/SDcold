@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 478" width="820" height="478" role="img" aria-label="Animated terminal: KengneTalo, Full-Stack Engineer">
+<defs>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#39d353" stop-opacity=".55"/>
+    <stop offset=".5" stop-color="#56d4dd" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#f778ba" stop-opacity=".5"/>
+  </linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#56d4dd" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#56d4dd" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#56d4dd" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#1b2732"/>
+  </pattern>
+  <clipPath id="screen"><rect x="12" y="48" width="796" height="418"/></clipPath>
+</defs>
+<style>
+  .t{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace;font-size:15px;dominant-baseline:alphabetic}
+  .ttl{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;fill:#7d8590}
+  .w{animation-duration:11.38s;animation-iteration-count:infinite;animation-fill-mode:both}
+  .cur{animation-duration:11.38s;animation-iteration-count:infinite;animation-timing-function:linear}
+  @keyframes w0{0%,5.272%{transform:translateX(0)}9.666%,100%{transform:translateX(78.0px)}}@keyframes c0{0%,5.272%{opacity:0}5.322%,9.666%{opacity:1}9.716000000000001%,100%{opacity:0}}@keyframes w1{0%,12.127%{transform:translateX(0)}13.884%,100%{transform:translateX(303.0px)}}@keyframes c1{0%,12.127%{opacity:0}12.177000000000001%,13.884%{opacity:1}13.934000000000001%,100%{opacity:0}}@keyframes w3{0%,16.344%{transform:translateX(0)}25.132%,100%{transform:translateX(150.0px)}}@keyframes c3{0%,16.344%{opacity:0}16.394000000000002%,25.132%{opacity:1}25.182000000000002%,100%{opacity:0}}@keyframes w4{0%,27.592%{transform:translateX(0)}29.35%,100%{transform:translateX(402.0px)}}@keyframes c4{0%,27.592%{opacity:0}27.642%,29.35%{opacity:1}29.400000000000002%,100%{opacity:0}}@keyframes w5{0%,31.81%{transform:translateX(0)}33.568%,100%{transform:translateX(375.0px)}}@keyframes c5{0%,31.81%{opacity:0}31.86%,33.568%{opacity:1}33.617999999999995%,100%{opacity:0}}@keyframes w6{0%,36.028%{transform:translateX(0)}37.786%,100%{transform:translateX(384.0px)}}@keyframes c6{0%,36.028%{opacity:0}36.077999999999996%,37.786%{opacity:1}37.836%,100%{opacity:0}}@keyframes w8{0%,40.246%{transform:translateX(0)}48.484%,100%{transform:translateX(141.0px)}}@keyframes c8{0%,40.246%{opacity:0}40.296%,48.484%{opacity:1}48.534%,100%{opacity:0}}@keyframes w9{0%,50.945%{transform:translateX(0)}52.702%,100%{transform:translateX(321.0px)}}@keyframes c9{0%,50.945%{opacity:0}50.995%,52.702%{opacity:1}52.751999999999995%,100%{opacity:0}}@keyframes w11{0%,55.163%{transform:translateX(0)}60.655%,100%{transform:translateX(96.0px)}}@keyframes c11{0%,55.163%{opacity:0}55.212999999999994%,60.655%{opacity:1}60.705%,100%{opacity:0}}@keyframes w12{0%,63.115%{transform:translateX(0)}64.873%,100%{transform:translateX(438.0px)}}@keyframes c12{0%,63.115%{opacity:0}63.165%,64.873%{opacity:1}64.923%,100%{opacity:0}}@keyframes blink{0%,64.873%{opacity:0}64.923%,69.706%{opacity:1}69.756%,74.539%{opacity:0}74.589%,79.372%{opacity:1}79.422%,84.205%{opacity:0}84.255%,89.038%{opacity:1}89.088%,93.871%{opacity:0}93.92099999999999%,98.704%{opacity:1}98.75399999999999%,100.0%{opacity:0}}
+  .bl{animation:blink 11.38s steps(1) infinite}
+  .sweep{animation:sweep 7s linear infinite}
+  @keyframes sweep{0%{transform:translateY(-40px)}100%{transform:translateY(478px)}}
+  .ring{animation:ring 4s ease-in-out infinite}
+  @keyframes ring{0%,100%{opacity:.35}50%{opacity:.9}}
+  @media (prefers-reduced-motion:reduce){
+    .w,.bl,.sweep,.ring{animation:none}
+    .w{transform:translateX(999px)} .cur{opacity:0} .bl{opacity:1}
+  }
+</style>
+
+<rect width="820" height="478" rx="14" fill="#0b0f14"/>
+<rect class="ring" x="1" y="1" width="818" height="476" rx="14" fill="none" stroke="url(#glow)" stroke-width="2"/>
+<rect x="12" y="48" width="796" height="418" fill="url(#dots)"/>
+
+<path d="M12 26a14 14 0 0 1 14-14h768a14 14 0 0 1 14 14v22H12z" fill="#121a23"/>
+<line x1="12" y1="48" x2="808" y2="48" stroke="#1e2a36"/>
+<circle cx="34" cy="30" r="6" fill="#ff5f57"/><circle cx="54" cy="30" r="6" fill="#febc2e"/><circle cx="74" cy="30" r="6" fill="#28c840"/>
+<text x="410.0" y="34" class="ttl" text-anchor="middle">kengnetalo@github — ~/portfolio</text>
+
+<g clip-path="url(#screen)">
+    <text x="40" y="82" class="t"><tspan fill="#39d353" xml:space="preserve">$ </tspan><tspan fill="#79c0ff" xml:space="preserve">whoami</tspan></text>
+  <g class="w" style="animation-name:w0;animation-timing-function:steps(8)"><rect x="40" y="66" width="78.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="68" width="8.5" height="18" fill="#39d353" style="animation-name:c0"/></g>
+  <text x="40" y="108" class="t"><tspan fill="#56d4dd" xml:space="preserve">KengneTalo</tspan><tspan fill="#adbac7" xml:space="preserve"> // Full-Stack Engineer</tspan></text>
+  <g class="w" style="animation-name:w1;animation-timing-function:steps(33)"><rect x="40" y="92" width="303.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="94" width="8.5" height="18" fill="#39d353" style="animation-name:c1"/></g>
+  <text x="40" y="160" class="t"><tspan fill="#39d353" xml:space="preserve">$ </tspan><tspan fill="#79c0ff" xml:space="preserve">cat </tspan><tspan fill="#c9d1d9" xml:space="preserve">stack.json</tspan></text>
+  <g class="w" style="animation-name:w3;animation-timing-function:steps(16)"><rect x="40" y="144" width="150.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="146" width="8.5" height="18" fill="#39d353" style="animation-name:c3"/></g>
+  <text x="40" y="186" class="t"><tspan fill="#6e7c8c" xml:space="preserve">{ </tspan><tspan fill="#ffa657" xml:space="preserve">"web"</tspan><tspan fill="#6e7c8c" xml:space="preserve">: [</tspan><tspan fill="#a5d6ff" xml:space="preserve">"React"</tspan><tspan fill="#6e7c8c" xml:space="preserve">, </tspan><tspan fill="#a5d6ff" xml:space="preserve">"TypeScript"</tspan><tspan fill="#6e7c8c" xml:space="preserve">, </tspan><tspan fill="#a5d6ff" xml:space="preserve">"Next.js"</tspan><tspan fill="#6e7c8c" xml:space="preserve">],</tspan></text>
+  <g class="w" style="animation-name:w4;animation-timing-function:steps(44)"><rect x="40" y="170" width="402.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="172" width="8.5" height="18" fill="#39d353" style="animation-name:c4"/></g>
+  <text x="40" y="212" class="t"><tspan fill="#6e7c8c" xml:space="preserve">  </tspan><tspan fill="#ffa657" xml:space="preserve">"api"</tspan><tspan fill="#6e7c8c" xml:space="preserve">: [</tspan><tspan fill="#a5d6ff" xml:space="preserve">"Python"</tspan><tspan fill="#6e7c8c" xml:space="preserve">, </tspan><tspan fill="#a5d6ff" xml:space="preserve">"Django"</tspan><tspan fill="#6e7c8c" xml:space="preserve">, </tspan><tspan fill="#a5d6ff" xml:space="preserve">"Node.js"</tspan><tspan fill="#6e7c8c" xml:space="preserve">],</tspan></text>
+  <g class="w" style="animation-name:w5;animation-timing-function:steps(41)"><rect x="40" y="196" width="375.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="198" width="8.5" height="18" fill="#39d353" style="animation-name:c5"/></g>
+  <text x="40" y="238" class="t"><tspan fill="#6e7c8c" xml:space="preserve">  </tspan><tspan fill="#ffa657" xml:space="preserve">"app"</tspan><tspan fill="#6e7c8c" xml:space="preserve">: [</tspan><tspan fill="#a5d6ff" xml:space="preserve">"Qt/QML"</tspan><tspan fill="#6e7c8c" xml:space="preserve">, </tspan><tspan fill="#a5d6ff" xml:space="preserve">"Linux"</tspan><tspan fill="#6e7c8c" xml:space="preserve">, </tspan><tspan fill="#a5d6ff" xml:space="preserve">"Hyprland"</tspan><tspan fill="#6e7c8c" xml:space="preserve">] }</tspan></text>
+  <g class="w" style="animation-name:w6;animation-timing-function:steps(42)"><rect x="40" y="222" width="384.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="224" width="8.5" height="18" fill="#39d353" style="animation-name:c6"/></g>
+  <text x="40" y="290" class="t"><tspan fill="#39d353" xml:space="preserve">$ </tspan><tspan fill="#79c0ff" xml:space="preserve">ls </tspan><tspan fill="#c9d1d9" xml:space="preserve">~/projects</tspan></text>
+  <g class="w" style="animation-name:w8;animation-timing-function:steps(15)"><rect x="40" y="274" width="141.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="276" width="8.5" height="18" fill="#39d353" style="animation-name:c8"/></g>
+  <text x="40" y="316" class="t"><tspan fill="#adbac7" xml:space="preserve">wanzo/   fullup-hs/   nayee/   ats/</tspan></text>
+  <g class="w" style="animation-name:w9;animation-timing-function:steps(35)"><rect x="40" y="300" width="321.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="302" width="8.5" height="18" fill="#39d353" style="animation-name:c9"/></g>
+  <text x="40" y="368" class="t"><tspan fill="#39d353" xml:space="preserve">$ </tspan><tspan fill="#79c0ff" xml:space="preserve">./now.sh</tspan></text>
+  <g class="w" style="animation-name:w11;animation-timing-function:steps(10)"><rect x="40" y="352" width="96.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="354" width="8.5" height="18" fill="#39d353" style="animation-name:c11"/></g>
+  <text x="40" y="394" class="t"><tspan fill="#f778ba" xml:space="preserve">&gt; </tspan><tspan fill="#adbac7" xml:space="preserve">Building from Cameroon, shipping across Africa</tspan></text>
+  <g class="w" style="animation-name:w12;animation-timing-function:steps(48)"><rect x="40" y="378" width="438.0" height="22" fill="#0b0f14"/><rect class="cur" x="40" y="380" width="8.5" height="18" fill="#39d353" style="animation-name:c12"/></g>
+  <text x="40" y="446" class="t" fill="#39d353">$</text>
+  <rect class="bl" x="58.0" y="432" width="8.5" height="18" fill="#39d353"/>
+  <rect class="sweep" x="12" y="0" width="796" height="34" fill="url(#scan)" opacity=".14"/>
+</g>
+</svg>
