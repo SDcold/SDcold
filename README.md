@@ -44,26 +44,6 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## `$ ls ~/projects`
-
-<div align="center">
-
-<a href="https://github.com/SDcold/Wanzo-web-app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SDcold&repo=Wanzo-web-app&bg_color=0B0F14&title_color=39D353&text_color=ADBAC7&icon_color=56D4DD&border_color=1E2A36&show_owner=false" alt="Wanzo web app">
-</a>
-<a href="https://github.com/SDcold/backend-wanzo-app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SDcold&repo=backend-wanzo-app&bg_color=0B0F14&title_color=39D353&text_color=ADBAC7&icon_color=56D4DD&border_color=1E2A36&show_owner=false" alt="Wanzo backend">
-</a>
-<a href="https://github.com/SDcold/FULLUPHUB">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SDcold&repo=FULLUPHUB&bg_color=0B0F14&title_color=39D353&text_color=ADBAC7&icon_color=56D4DD&border_color=1E2A36&show_owner=false" alt="FULLUPHUB">
-</a>
-<a href="https://github.com/SDcold/end4-pC">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SDcold&repo=end4-pC&bg_color=0B0F14&title_color=39D353&text_color=ADBAC7&icon_color=56D4DD&border_color=1E2A36&show_owner=false" alt="end4-pC desktop shell">
-</a>
-
-</div>
-
-<img src="assets/divider.svg" alt="" width="100%">
 
 ## `$ git log --stat`
 
