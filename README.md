@@ -17,19 +17,6 @@
 
 </div>
 
-## `$ whoami`
-
-```console
-> Full-stack engineer based in Cameroon, building web platforms,
-> APIs and desktop tools.
-> I work end-to-end: UI in React/Next.js, services in Python/Django & Node,
-> and native apps in Qt/QML — then I ship them.
->
-> Currently  ::  Wanzo (web + admin + backend) · FULLUPHUB (ATS) · NAYEE
-> Daily      ::  Linux · Hyprland · Neovim-adjacent tooling · way too much coffee
-> Interests  ::  developer experience, clean architecture, African tech products
-> Open to    ::  freelance, open-source, and interesting technical problems
-```
 
 <img src="assets/divider.svg" alt="" width="100%">
 
