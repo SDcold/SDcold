@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SDcold&style=for-the-badge&color=39D353&label=VISITORS" alt="Profile views">
 <a href="https://github.com/SDcold?tab=followers"><img src="https://img.shields.io/github/followers/SDcold?style=for-the-badge&color=56D4DD&labelColor=0B0F14&logo=github&logoColor=white" alt="Followers"></a>
-<img src="https://img.shields.io/badge/BASED_IN-CAMEROON-F778BA?style=for-the-badge&labelColor=0B0F14" alt="Based in Cameroon">
+<!-- <img src="https://img.shields.io/badge/BASED_IN-CAMEROON-F778BA?style=for-the-badge&labelColor=0B0F14" alt="Based in Cameroon"> -->
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-79C0FF?style=for-the-badge&labelColor=0B0F14" alt="Open to collaboration">
 
 <img src="assets/divider.svg" alt="" width="100%">
