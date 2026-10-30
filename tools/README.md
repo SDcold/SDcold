@@ -3,11 +3,14 @@
 The animated SVGs in `../assets/` are generated — edit the scripts, not the SVGs.
 
 ```sh
-python3 tools/gen_header.py assets/header.svg   # terminal window
-python3 tools/gen_footer.py assets/footer.svg   # matrix rain band
+python3 tools/gen_header.py assets/header-v2.svg   # terminal window
+python3 tools/gen_footer.py assets/footer-v2.svg   # matrix rain band
 ```
 
-`assets/divider.svg` is hand-written and small enough to edit directly.
+`assets/divider-v2.svg` is hand-written and small enough to edit directly.
+
+When an SVG changes, rename it (`-v3`, ...) and update `README.md`: browsers cache
+the raw file by URL, and GitHub's redirect drops any query string.
 
 ## Editing the terminal content
 
@@ -25,7 +28,7 @@ seek with a negative delay:
 
 ```sh
 sed "s|</style>|.w,.cur,.bl{animation-play-state:paused !important;animation-delay:-4.2s !important}\n</style>|" \
-    assets/header.svg > /tmp/frame.svg
+    assets/header-v2.svg > /tmp/frame.svg
 ```
 
 Then wrap `/tmp/frame.svg` in an HTML file and screenshot it headlessly.

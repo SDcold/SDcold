@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="KengneTalo — Full-Stack Engineer" width="100%">
+<img src="assets/header-v2.svg" alt="KengneTalo — Full-Stack Engineer" width="100%">
 
 <br>
 
@@ -12,7 +12,7 @@
 <a href="https://github.com/SDcold?tab=followers"><img src="https://img.shields.io/github/followers/SDcold?style=for-the-badge&color=8FA5BB&labelColor=0F1318&logo=github&logoColor=white" alt="Followers"></a>
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-8FA5BB?style=for-the-badge&labelColor=0F1318" alt="Open to collaboration">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider-v2.svg" alt="" width="100%">
 
 </div>
 
@@ -42,7 +42,7 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider-v2.svg" alt="" width="100%">
 
 ## `$ git log --stat`
 
@@ -52,7 +52,7 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider-v2.svg" alt="" width="100%">
 
 ## `$ ./contributions --graph`
 
@@ -66,7 +66,7 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider-v2.svg" alt="" width="100%">
 
 ## `$ curl -X POST /connect`
 
@@ -81,6 +81,6 @@
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Thanks for scrolling — let's build something" width="100%">
+<img src="assets/footer-v2.svg" alt="Thanks for scrolling — let's build something" width="100%">
 
 </div>
