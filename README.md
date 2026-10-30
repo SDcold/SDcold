@@ -4,25 +4,25 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=740&height=42&lines=Full-Stack+Engineer+%E2%80%94+web%2C+API%2C+desktop;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Django+%C2%B7+Qt%2FQML;Shipping+products+that+solve+real+problems" alt="Full-Stack Engineer — web, API, desktop">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=8FAE9C&center=true&vCenter=true&width=740&height=42&lines=Full-Stack+Engineer+%E2%80%94+web%2C+API%2C+desktop;Rust+%C2%B7+C+%C2%B7+C%2B%2B+%C2%B7+Qt%2FQML+%C2%B7+Python;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Shipping+products+that+solve+real+problems" alt="Full-Stack Engineer — web, API, desktop">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SDcold&style=for-the-badge&color=39D353&label=VISITORS" alt="Profile views">
-<a href="https://github.com/SDcold?tab=followers"><img src="https://img.shields.io/github/followers/SDcold?style=for-the-badge&color=56D4DD&labelColor=0B0F14&logo=github&logoColor=white" alt="Followers"></a>
-<!-- <img src="https://img.shields.io/badge/BASED_IN-CAMEROON-F778BA?style=for-the-badge&labelColor=0B0F14" alt="Based in Cameroon"> -->
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-79C0FF?style=for-the-badge&labelColor=0B0F14" alt="Open to collaboration">
+<img src="https://komarev.com/ghpvc/?username=SDcold&style=for-the-badge&color=8FAE9C&label=VISITORS" alt="Profile views">
+<a href="https://github.com/SDcold?tab=followers"><img src="https://img.shields.io/github/followers/SDcold?style=for-the-badge&color=8FA5BB&labelColor=0F1318&logo=github&logoColor=white" alt="Followers"></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-8FA5BB?style=for-the-badge&labelColor=0F1318" alt="Open to collaboration">
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 </div>
 
-
-<img src="assets/divider.svg" alt="" width="100%">
-
 ## `$ cat stack.json`
 
 <div align="center">
+
+**`systems & desktop`**
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,qt,linux&theme=dark" alt="Rust, C, C++, Qt/QML, Linux">
 
 **`frontend`**
 
@@ -36,25 +36,19 @@
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,vercel&theme=dark" alt="PostgreSQL, MongoDB, Redis, Docker, Vercel">
 
-**`desktop & tooling`**
+**`tooling`**
 
-<img src="https://skillicons.dev/icons?i=qt,cpp,c,linux,git,github,figma&theme=dark" alt="Qt, C++, C, Linux, Git, GitHub, Figma">
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Git, GitHub, Figma">
 
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-
 ## `$ git log --stat`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SDcold&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0B0F14&title_color=39D353&text_color=ADBAC7&icon_color=56D4DD&border_color=1E2A36" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDcold&layout=compact&langs_count=8&bg_color=0B0F14&title_color=39D353&text_color=ADBAC7&border_color=1E2A36" alt="Top languages">
-
-<br><br>
-
-<img height="165" src="https://streak-stats.demolab.com?user=SDcold&background=0B0F14&border=1E2A36&stroke=1E2A36&ring=39D353&fire=F778BA&currStreakNum=ADBAC7&sideNums=ADBAC7&currStreakLabel=39D353&sideLabels=7D8590&dates=6E7C8C" alt="Contribution streak">
+<img height="165" src="https://streak-stats.demolab.com?user=SDcold&background=0F1318&border=262D36&stroke=262D36&ring=8FAE9C&fire=C2AB88&currStreakNum=AAB3BD&sideNums=AAB3BD&currStreakLabel=8FAE9C&sideLabels=78838E&dates=66717C" alt="Contribution streak">
 
 </div>
 
@@ -63,10 +57,6 @@
 ## `$ ./contributions --graph`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SDcold&bg_color=0B0F14&color=ADBAC7&title_color=39D353&line=39D353&point=56D4DD&area=true&area_color=1B6E33&hide_border=true" alt="Contribution activity graph" width="100%">
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SDcold/SDcold/output/snake-dark.svg">
@@ -82,8 +72,8 @@
 
 <div align="center">
 
-<a href="mailto:talosamuel36@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F14?style=for-the-badge&logo=gmail&logoColor=39D353" alt="Email"></a>
-<a href="https://github.com/SDcold"><img src="https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=F778BA" alt="GitHub"></a>
+<a href="mailto:talosamuel36@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F1318?style=for-the-badge&logo=gmail&logoColor=8FAE9C" alt="Email"></a>
+<a href="https://github.com/SDcold"><img src="https://img.shields.io/badge/GITHUB-0F1318?style=for-the-badge&logo=github&logoColor=C2AB88" alt="GitHub"></a>
 
 </div>
 
