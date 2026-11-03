@@ -44,6 +44,28 @@
 
 <img src="assets/divider-v2.svg" alt="" width="100%">
 
+## `$ ls ~/projects --starred --watching`
+
+<div align="center">
+
+<a href="https://github.com/SDcold/etea-shell"><img src="assets/etea-shell.jpg" alt="ETEA Shell on Hyprland: a sky clock, karaoke lyrics, weather, music and a calendar over purple mountains" width="100%"></a>
+
+### [ETEA Shell](https://github.com/SDcold/etea-shell) &nbsp;·&nbsp; `exit the earth atmosphere`
+
+A desktop shell for Hyprland, built on Quickshell. Your workspaces are pages standing around a<br>
+small planet, themes are worlds you land on, and every panel is drawn in ink lines and little stars.
+
+<img src="https://img.shields.io/badge/HYPRLAND-0.56-8FAE9C?style=for-the-badge&labelColor=0F1318" alt="Hyprland 0.56">
+<img src="https://img.shields.io/badge/QUICKSHELL-QML-8FA5BB?style=for-the-badge&labelColor=0F1318" alt="Quickshell, QML">
+<img src="https://img.shields.io/badge/LICENSE-GPL--3.0-C2AB88?style=for-the-badge&labelColor=0F1318" alt="GPL-3.0">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-8FAE9C?style=for-the-badge&labelColor=0F1318" alt="Actively developed">
+
+<a href="https://github.com/SDcold/etea-shell"><img src="https://img.shields.io/badge/%E2%98%85_STAR_%26_FOLLOW_THE_PROJECT-0F1318?style=for-the-badge&logo=github&logoColor=C2AB88" alt="Star and follow ETEA Shell"></a>
+
+</div>
+
+<img src="assets/divider-v2.svg" alt="" width="100%">
+
 ## `$ git log --stat`
 
 <div align="center">
